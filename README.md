@@ -19,12 +19,9 @@ If you are interested in detailed design of the code, please refer to `Doc/Proje
 
 ![](Img\Play.png)
 
-![](C:\Users\Harry\Desktop\Github\Img\End.png)
+![](Img\End.png)
 
 ![](Img\HighScore.png)
 
 ![1730476129999](Img/Bye.png)
 
-
-
-[Doc/Project Overview.md]: 
