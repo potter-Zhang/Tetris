@@ -1,7 +1,30 @@
 # Tetris
 
-Game Tetris based on console. 
+This is a simple Tetris game based on console in C++.
 
-It can also take down your high score. Have fun with it!
+If you are interested in detailed design of the code, please refer to `Doc/Project Overview.md`
 
-If you want to get a big picture of the whole project, please read ProjectDesign.docx(Chinese version only), it will be helpful.
+
+
+**Features**
+
+- Complete game including starting page, scores evaluation and colorful cubes
+- Support local High Score
+
+
+
+**Screen Shots**
+
+![Start](Img\Start.png)
+
+![](Img\Play.png)
+
+![](C:\Users\Harry\Desktop\Github\Img\End.png)
+
+![](Img\HighScore.png)
+
+![1730476129999](Img/Bye.png)
+
+
+
+[Doc/Project Overview.md]: 
